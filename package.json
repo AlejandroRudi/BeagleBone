@@ -1,0 +1,19 @@
+{
+  "name": "beaglebone",
+  "version": "1.0.0",
+  "description": "Pruebas con la Beagle Bone Black",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroRudi/BeagleBone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroRudi/BeagleBone/issues"
+  },
+  "homepage": "https://github.com/AlejandroRudi/BeagleBone#readme"
+}
